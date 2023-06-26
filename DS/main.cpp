@@ -65,7 +65,7 @@ int main() {
 
     displayOptions(dataStructures);
     std::string input;
-    std::cout << "Enter the input string: ";
+    std::cout << "ENTER NAME OF DATA STRUCTURE : ";
     std::getline(std::cin, input);
 
     std::string directoryPath = "C:\\Users\\HP\\Desktop\\DS\\PROJECT";
