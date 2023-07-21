@@ -43,7 +43,7 @@ int main() {
         "SUFFIX-ARRAY",
         "HASH-TABLE",
         "BINARY-INDEXED-TREE",
-        "TRIES",
+        "TRIE",
         "DOUBLE-ENDED-QUEUE",
         "SEGMENT-TREE",
         "STACK",
